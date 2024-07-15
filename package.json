@@ -1,6 +1,6 @@
 {
   "name": "my-app",
-  "homepages":"https://[shifnmalik].github.io/[E-Cart]",
+  "homepages":"https://shifnmalik.github.io/E-Cart",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

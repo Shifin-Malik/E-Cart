@@ -11,6 +11,10 @@ function App() {
           <Route index element={<Home />} />
          
         </Route>
+     <Route path='/E-Cart' element={<Layout />}>
+          <Route index element={<Home />} />
+         
+        </Route>
        
         <Route path='/:slug' element={<Detail />} />
       </Routes>

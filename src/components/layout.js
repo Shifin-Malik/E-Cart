@@ -7,7 +7,6 @@ import Navbar from './NavBar'
 import Hero from "./hero";
 import HeroSection from './heroSection'
 import AOS from "aos";
-import "aos/dist/aos.css";
 
 import Services from "./Services";
 

@@ -7,7 +7,10 @@ import Navbar from './NavBar'
 import Hero from "./hero";
 import HeroSection from './heroSection'
 import AOS from "aos";
+<<<<<<< HEAD
 
+=======
+>>>>>>> d2cdf00e6aa911ad35d7ea78261637095816c204
 
 import Services from "./Services";
 

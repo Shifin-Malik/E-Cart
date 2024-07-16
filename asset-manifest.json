@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.31aff035.css",
-    "main.js": "/static/js/main.b64f85a4.js",
+    "main.css": "/static/css/main.09ee0d06.css",
+    "main.js": "/static/js/main.106871b6.js",
     "static/js/453.ed3810f9.chunk.js": "/static/js/453.ed3810f9.chunk.js",
     "static/media/AirPords.png": "/static/media/AirPords.645e19484d04ade9d0ce.png",
     "static/media/headphone.png": "/static/media/headphone.6abce47d92bd0cd186c1.png",
@@ -17,12 +17,12 @@
     "static/media/gaming.png": "/static/media/gaming.8950ba32f692a1916413.png",
     "static/media/iconCart.png": "/static/media/iconCart.eca5ee08f37494f3f691.png",
     "index.html": "/index.html",
-    "main.31aff035.css.map": "/static/css/main.31aff035.css.map",
-    "main.b64f85a4.js.map": "/static/js/main.b64f85a4.js.map",
+    "main.09ee0d06.css.map": "/static/css/main.09ee0d06.css.map",
+    "main.106871b6.js.map": "/static/js/main.106871b6.js.map",
     "453.ed3810f9.chunk.js.map": "/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.31aff035.css",
-    "static/js/main.b64f85a4.js"
+    "static/css/main.09ee0d06.css",
+    "static/js/main.106871b6.js"
   ]
 }

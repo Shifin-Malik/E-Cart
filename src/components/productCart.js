@@ -52,7 +52,7 @@ const ProductCart = (props) => {
   
 
        
-      </div>
+      </div>                              
     </div>
   );
 };

@@ -4,6 +4,7 @@ import { FaCaretDown, FaCartShopping } from "react-icons/fa6";
 
 import { useSelector, useDispatch } from 'react-redux' 
 import { toggleStatusTab } from '../stores/cart'
+import { Link } from "react-router-dom";
 
 
 const MenuLinks = [
@@ -38,7 +39,7 @@ const DropdownLinks = [
   {
     id: 2,
     name: "Best Selling",
-    link: "/#",
+    link: "/",
   },
   
 ];
@@ -56,8 +57,8 @@ const OpenLinks = [
 },
 {
   id: 3,
-  name: "Sign Out",
-  link:"/#"
+  name: "Sign up",
+  link:<Link to="/login"></Link>
 },
 ]
 

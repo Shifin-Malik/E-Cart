@@ -45,6 +45,7 @@ const Layout = () => {
             
         </main>
         <CartTab />
+      
     </div>
   )
 }
